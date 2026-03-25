@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Polyphonic",
+  "base_artist": "Nor",
+  "createdAt": "2026-03-25T13:22:29.813087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You And I (with The Polyphonic Spree)",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/01_You_And_I_(with_The_Polyphonic_Spree)_Yoko_Ono.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Scorpio Rising (The Polyphonic Spree mix)",
+      "artist": "Death In Vegas",
+      "has_synced": false,
+      "path": "select/02_Scorpio_Rising_(The_Polyphonic_Spree_mix)_Death_In_Vegas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Polyphonic Spree",
+      "artist": "Lithium",
+      "has_synced": true,
+      "path": "select/03_The_Polyphonic_Spree_Lithium.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scorpio Rising - Polyphonic Spree Mix",
+      "artist": "Death In Vegas",
+      "has_synced": false,
+      "path": "select/04_Scorpio_Rising_-_Polyphonic_Spree_Mix_Death_In_Vegas.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Scorpio Rising (Polyphonic Spree mix)",
+      "artist": "Death in Vegas",
+      "has_synced": false,
+      "path": "select/05_Scorpio_Rising_(Polyphonic_Spree_mix)_Death_in_Vegas.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Polyphonic Spree / Have a Day-Celebratory",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/06_The_Polyphonic_Spree___Have_a_Day-Celebratory_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gold Dust (Max Polyphonic Remix)",
+      "artist": "DJ Fresh",
+      "has_synced": false,
+      "path": "select/07_Gold_Dust_(Max_Polyphonic_Remix)_DJ_Fresh.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Polyphonic Mind",
+      "artist": "Ghost Atlas",
+      "has_synced": false,
+      "path": "select/08_Polyphonic_Mind_Ghost_Atlas.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Scorpio Rising (Polyphonic Spree Remix)",
+      "artist": "Death in Vegas",
+      "has_synced": true,
+      "path": "select/09_Scorpio_Rising_(Polyphonic_Spree_Remix)_Death_in_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mother's Little Helper (We Love Polyphonic Size) (Doctor Pleeease mix)",
+      "artist": "Stereo Total",
+      "has_synced": false,
+      "path": "select/10_Mother's_Little_Helper_(We_Love_Polyphonic_Size)_(Doctor_Pleeease_mix)_Stereo_Total.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Death In Vegas / Scorpio Rising (Polyphonic Spree Mix)",
+      "artist": "Death In Vegas",
+      "has_synced": false,
+      "path": "select/11_Death_In_Vegas___Scorpio_Rising_(Polyphonic_Spree_Mix)_Death_In_Vegas.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "POLYPHONIC WORLD",
+      "artist": "2wink",
+      "has_synced": false,
+      "path": "select/12_POLYPHONIC_WORLD_2wink.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pour vous (polyphonic)",
+      "artist": "Shy’m",
+      "has_synced": true,
+      "path": "select/13_Pour_vous_(polyphonic)_Shy’m.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mothers Little Helper (We Love Polyphonic Size)",
+      "artist": "Stereo Total",
+      "has_synced": false,
+      "path": "select/14_Mothers_Little_Helper_(We_Love_Polyphonic_Size)_Stereo_Total.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pour vous (polyphonic)",
+      "artist": "Shy'm",
+      "has_synced": true,
+      "path": "select/15_Pour_vous_(polyphonic)_Shy'm.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Polyphonic song \"Edi beo thu hevene quene\"",
+      "artist": "Anonymous 4",
+      "has_synced": true,
+      "path": "select/16_Polyphonic_song__Edi_beo_thu_hevene_quene_Anonymous_4.lrc"
+    }
+  ]
+}
